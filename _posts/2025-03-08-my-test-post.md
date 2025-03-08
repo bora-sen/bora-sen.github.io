@@ -2,6 +2,7 @@
 title: "My First Blog Post"
 layout: post
 date: 2025-03-08 17:00
+image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
